@@ -2,10 +2,10 @@
 /* CSS Document */
 /* Body styling */
 body {
-  background: #713e94;
+  background: #ff6969;
   color: #fff;
   font-family: Helvetica, Arial;
-  font-size: 27px;
+  font-size: 30px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
@@ -16,7 +16,7 @@ body {
 
 /* Heading Styles */
 h1 {
-  font-size: 60px;
+  font-size: 65px;
   color: #fff;
   text-align: center;
 }
@@ -25,7 +25,7 @@ h1 {
 /* Game Directions */
 .description {
   text-align: center;
-  margin: 80px auto 40px;
+  margin: 90px auto 50px;
 }
 
 
@@ -46,7 +46,7 @@ h1 {
 
 .bucket {
   display: inline-block;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   width: 100%;
 }
 
@@ -59,7 +59,7 @@ h1 {
 }
 
 .choice-bucket label {
-  font-size: 12px;
+  font-size: 13px;
   line-height: 13px;
   margin: 15px 4%;
 }
